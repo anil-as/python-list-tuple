@@ -49,7 +49,7 @@ while True:
     elif choice == 2:
         att_search()
     elif choice == 3:
-        print("Exiting the program. Goodbye!")
+        print("Exiting...")
         break
     else:
         print("Invalid choice. Please try again.")
